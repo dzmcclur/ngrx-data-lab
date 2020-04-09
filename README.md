@@ -67,7 +67,7 @@ import { EntityMetadataMap } from 'ngrx-data';
 
 const entityMetadata: EntityMetadataMap = {
   Hero: {},
-  Villain: {}
+  Villain: {},
 };
 
 // because the plural of "hero" is not "heros"
